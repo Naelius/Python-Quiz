@@ -1,0 +1,1814 @@
+[
+  {
+    "frage": "Wie listet man alle Dateien in einem Verzeichnis mit PowerShell auf?",
+    "antworten": [
+      "Get-File",
+      "Show-Files",
+      "Get-ChildItem",
+      "List-Dir"
+    ],
+    "richtig": 2,
+    "kategorie": "PowerShell",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Wie gibt man Text in PowerShell aus?",
+    "antworten": [
+      "Write-Output",
+      "Echo",
+      "Show-Text",
+      "Print"
+    ],
+    "richtig": 0,
+    "kategorie": "PowerShell",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Welcher Befehl zeigt die aktuelle Uhrzeit an?",
+    "antworten": [
+      "Show-Time",
+      "Current-Time",
+      "Get-Date",
+      "Time-Now"
+    ],
+    "richtig": 2,
+    "kategorie": "PowerShell",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Wie beendet man PowerShell?",
+    "antworten": [
+      "End",
+      "Stop",
+      "Quit",
+      "Exit"
+    ],
+    "richtig": 3,
+    "kategorie": "PowerShell",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Wie ruft man Hilfe zu einem Befehl ab?",
+    "antworten": [
+      "Get-Help",
+      "Show-Help",
+      "Help-Get",
+      "HelpMe"
+    ],
+    "richtig": 0,
+    "kategorie": "PowerShell",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Wie kann man eine Variable deklarieren?",
+    "antworten": [
+      "int var = 5",
+      "let var = 5",
+      "var = 5",
+      "$var = 5"
+    ],
+    "richtig": 3,
+    "kategorie": "PowerShell",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Wie kann man eine Datei löschen?",
+    "antworten": [
+      "Delete-File",
+      "Erase-Item",
+      "Remove-Item",
+      "Del-Object"
+    ],
+    "richtig": 2,
+    "kategorie": "PowerShell",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Wie kann man den Inhalt einer Textdatei anzeigen?",
+    "antworten": [
+      "Read-Text",
+      "Get-Content",
+      "Display-Content",
+      "Show-File"
+    ],
+    "richtig": 1,
+    "kategorie": "PowerShell",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Wie kann man einen Dienst in PowerShell starten?",
+    "antworten": [
+      "Begin-Service",
+      "Enable-Service",
+      "Start-Service",
+      "Run-Service"
+    ],
+    "richtig": 2,
+    "kategorie": "PowerShell",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Wie kann man Prozesse nach Namen filtern?",
+    "antworten": [
+      "ps notepad",
+      "Find-Process notepad",
+      "Get-Process -Name notepad",
+      "Process-Get notepad"
+    ],
+    "richtig": 2,
+    "kategorie": "PowerShell",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Wie kann man ein Skript ausführen?",
+    "antworten": [
+      "script.ps1 --run",
+      "./script.ps1",
+      "run script.ps1",
+      "execute script.ps1"
+    ],
+    "richtig": 1,
+    "kategorie": "PowerShell",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Wie kann man eine Umgebungsvariable anzeigen?",
+    "antworten": [
+      "show-env PATH",
+      "get-env PATH",
+      "$env:PATH",
+      "env PATH"
+    ],
+    "richtig": 2,
+    "kategorie": "PowerShell",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Wie kann man den aktuellen Benutzer anzeigen?",
+    "antworten": [
+      "show-user",
+      "whoami",
+      "$env:USERNAME",
+      "get-user"
+    ],
+    "richtig": 2,
+    "kategorie": "PowerShell",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Wie kann man ein Verzeichnis erstellen?",
+    "antworten": [
+      "Create-Dir",
+      "Make-Directory",
+      "Add-Folder",
+      "New-Item -ItemType Directory"
+    ],
+    "richtig": 3,
+    "kategorie": "PowerShell",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Wie kann man eine Datei kopieren?",
+    "antworten": [
+      "Copy-File",
+      "Copy-Item",
+      "Duplicate-File",
+      "Clone-Item"
+    ],
+    "richtig": 1,
+    "kategorie": "PowerShell",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Wie kann man alle laufenden Prozesse anzeigen?",
+    "antworten": [
+      "List-Processes",
+      "Get-Process",
+      "ps -ef",
+      "Show-Processes"
+    ],
+    "richtig": 1,
+    "kategorie": "PowerShell",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Wie kann man einen Dienst stoppen?",
+    "antworten": [
+      "End-Service",
+      "Halt-Service",
+      "Stop-Service",
+      "Remove-Service"
+    ],
+    "richtig": 2,
+    "kategorie": "PowerShell",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Wie kann man ein Modul importieren?",
+    "antworten": [
+      "Load-Module",
+      "Use-Module",
+      "Import-Module",
+      "Add-Module"
+    ],
+    "richtig": 2,
+    "kategorie": "PowerShell",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Wie kann man eine Schleife von 1 bis 5 schreiben?",
+    "antworten": [
+      "while ($i -le 5) { }",
+      "for ($i=1; $i -le 5; $i++) { }",
+      "loop 1 to 5 { }",
+      "foreach ($i in 1..5) { }"
+    ],
+    "richtig": 1,
+    "kategorie": "PowerShell",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Wie kann man ein Array deklarieren?",
+    "antworten": [
+      "$arr = [1,2,3]",
+      "$arr = {1,2,3}",
+      "$arr = <1,2,3>",
+      "$arr = @(1,2,3)"
+    ],
+    "richtig": 3,
+    "kategorie": "PowerShell",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Wie kann man eine Funktion definieren?",
+    "antworten": [
+      "def Test() { }",
+      "function Test { }",
+      "Test() { }",
+      "func Test() { }"
+    ],
+    "richtig": 1,
+    "kategorie": "PowerShell",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Wie kann man eine Datei verschieben?",
+    "antworten": [
+      "Move-File",
+      "Transfer-File",
+      "Move-Item",
+      "Relocate-Item"
+    ],
+    "richtig": 2,
+    "kategorie": "PowerShell",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Wie kann man den Inhalt eines Arrays ausgeben?",
+    "antworten": [
+      "show $arr",
+      "echo $arr",
+      "$arr",
+      "print($arr)"
+    ],
+    "richtig": 2,
+    "kategorie": "PowerShell",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Wie kann man eine Datei umbenennen?",
+    "antworten": [
+      "Rename-File",
+      "Rename-Item",
+      "Change-Name",
+      "Set-Name"
+    ],
+    "richtig": 1,
+    "kategorie": "PowerShell",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Wie kann man einen Prozess beenden?",
+    "antworten": [
+      "End-Process",
+      "Stop-Process",
+      "Terminate-Process",
+      "Kill-Process"
+    ],
+    "richtig": 1,
+    "kategorie": "PowerShell",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Wie kann man eine Datei anhängen?",
+    "antworten": [
+      "Add-Content",
+      "Append-File",
+      "Attach-Content",
+      "Add-File"
+    ],
+    "richtig": 0,
+    "kategorie": "PowerShell",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Wie kann man ein Skript mit Parametern ausführen?",
+    "antworten": [
+      "run script.ps1 param Wert",
+      "execute script.ps1 Wert",
+      "script.ps1 --param Wert",
+      "./script.ps1 -param Wert"
+    ],
+    "richtig": 3,
+    "kategorie": "PowerShell",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Wie kann man alle Dienste anzeigen, die gestoppt sind?",
+    "antworten": [
+      "Get-Service | Where-Object {$_.Status -eq 'Stopped'}",
+      "Get-StoppedServices",
+      "List-Services -Stopped",
+      "Show-Services --stopped"
+    ],
+    "richtig": 0,
+    "kategorie": "PowerShell",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Wie kann man eine Datei aus dem Internet herunterladen?",
+    "antworten": [
+      "Get-FileFromWeb",
+      "Download-File",
+      "Invoke-WebRequest",
+      "Fetch-Item"
+    ],
+    "richtig": 2,
+    "kategorie": "PowerShell",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Wie kann man ein Objekt in JSON umwandeln?",
+    "antworten": [
+      "Jsonify",
+      "ConvertTo-Json",
+      "To-Json",
+      "ObjectToJson"
+    ],
+    "richtig": 1,
+    "kategorie": "PowerShell",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Wie kann man ein PowerShell-Modul dauerhaft installieren?",
+    "antworten": [
+      "Import-Module",
+      "Install-Module",
+      "Setup-Module",
+      "Add-Module"
+    ],
+    "richtig": 1,
+    "kategorie": "PowerShell",
+    "schwierigkeit": "schwer"
+  },
+  {
+    "frage": "Wie kann man einen geplanten Task erstellen?",
+    "antworten": [
+      "Create-Task",
+      "New-Task",
+      "Register-ScheduledTask",
+      "Add-ScheduledTask"
+    ],
+    "richtig": 2,
+    "kategorie": "PowerShell",
+    "schwierigkeit": "schwer"
+  },
+  {
+    "frage": "Wie kann man ein Zertifikat anzeigen?",
+    "antworten": [
+      "Display-Cert",
+      "Get-Cert",
+      "Get-ChildItem Cert:",
+      "Show-Certificate"
+    ],
+    "richtig": 2,
+    "kategorie": "PowerShell",
+    "schwierigkeit": "schwer"
+  },
+  {
+    "frage": "Wie kann man ein Event-Log auslesen?",
+    "antworten": [
+      "Read-Log",
+      "Show-Event",
+      "Get-Log",
+      "Get-EventLog"
+    ],
+    "richtig": 3,
+    "kategorie": "PowerShell",
+    "schwierigkeit": "schwer"
+  },
+  {
+    "frage": "Wie kann man einen Registry-Wert setzen?",
+    "antworten": [
+      "Set-ItemReg",
+      "Set-Registry",
+      "Set-ItemProperty",
+      "Change-Registry"
+    ],
+    "richtig": 2,
+    "kategorie": "PowerShell",
+    "schwierigkeit": "schwer"
+  },
+  {
+    "frage": "Wie kann man einen Hashwert berechnen?",
+    "antworten": [
+      "Get-FileHash",
+      "File-Hash",
+      "Compute-Hash",
+      "Hash-File"
+    ],
+    "richtig": 0,
+    "kategorie": "PowerShell",
+    "schwierigkeit": "schwer"
+  },
+  {
+    "frage": "Wie kann man ein Skript signieren?",
+    "antworten": [
+      "Set-AuthenticodeSignature",
+      "Sign-Script",
+      "Add-Signature",
+      "Script-Sign"
+    ],
+    "richtig": 0,
+    "kategorie": "PowerShell",
+    "schwierigkeit": "schwer"
+  },
+  {
+    "frage": "Wie kann man einen Alias erstellen?",
+    "antworten": [
+      "Alias-New",
+      "New-Alias",
+      "Add-Alias",
+      "Create-Alias"
+    ],
+    "richtig": 1,
+    "kategorie": "PowerShell",
+    "schwierigkeit": "schwer"
+  },
+  {
+    "frage": "Wie kann man einen Fehler abfangen?",
+    "antworten": [
+      "catch error { }",
+      "if error { }",
+      "on error { }",
+      "try { } catch { }"
+    ],
+    "richtig": 3,
+    "kategorie": "PowerShell",
+    "schwierigkeit": "schwer"
+  },
+  {
+    "frage": "Wie kann man ein Skript im Hintergrund ausführen?",
+    "antworten": [
+      "Execute-Async",
+      "Start-Job",
+      "Run-Background",
+      "Job-Start"
+    ],
+    "richtig": 1,
+    "kategorie": "PowerShell",
+    "schwierigkeit": "schwer"
+  },
+  {
+    "frage": "Wie kann man einen Prozess nach CPU-Auslastung sortieren?",
+    "antworten": [
+      "Sort-Process CPU",
+      "Get-Process | OrderBy CPU",
+      "Order-Process CPU",
+      "Get-Process | Sort-Object CPU -Descending"
+    ],
+    "richtig": 3,
+    "kategorie": "PowerShell",
+    "schwierigkeit": "schwer"
+  },
+  {
+    "frage": "Wie kann man ein Skript remote ausführen?",
+    "antworten": [
+      "Remote-Execute",
+      "Execute-Remote",
+      "Run-Remote",
+      "Invoke-Command"
+    ],
+    "richtig": 3,
+    "kategorie": "PowerShell",
+    "schwierigkeit": "schwer"
+  },
+  {
+    "frage": "Wie kann man ein Zertifikat importieren?",
+    "antworten": [
+      "Import-Certificate",
+      "Load-Certificate",
+      "Certificate-Import",
+      "Add-Certificate"
+    ],
+    "richtig": 0,
+    "kategorie": "PowerShell",
+    "schwierigkeit": "schwer"
+  },
+  {
+    "frage": "Wie kann man ein Skript debuggen?",
+    "antworten": [
+      "Start-Debug",
+      "Debug-Script",
+      "Set-PSBreakpoint",
+      "Script-Debug"
+    ],
+    "richtig": 2,
+    "kategorie": "PowerShell",
+    "schwierigkeit": "schwer"
+  },
+  {
+    "frage": "Wie kann man ein Objekt in XML umwandeln?",
+    "antworten": [
+      "ConvertTo-Xml",
+      "ObjectToXml",
+      "Xmlify",
+      "To-Xml"
+    ],
+    "richtig": 0,
+    "kategorie": "PowerShell",
+    "schwierigkeit": "schwer"
+  },
+  {
+    "frage": "Was ist Virtualisierung?",
+    "antworten": [
+      "Schnelleres Internet",
+      "Mehr Speicherplatz",
+      "Automatische Updates",
+      "Betrieb mehrerer Systeme auf einer Hardware"
+    ],
+    "richtig": 3,
+    "kategorie": "Virtualisierung",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Was ist eine VM?",
+    "antworten": [
+      "Virtuelle Mappe",
+      "Virtuelle Maschine",
+      "Verwaltete Mail",
+      "Virtuelles Modem"
+    ],
+    "richtig": 1,
+    "kategorie": "Virtualisierung",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Welches ist ein Virtualisierungsprodukt?",
+    "antworten": [
+      "Word",
+      "Excel",
+      "Photoshop",
+      "VMware"
+    ],
+    "richtig": 3,
+    "kategorie": "Virtualisierung",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Was ist ein Hypervisor?",
+    "antworten": [
+      "Ein Browser",
+      "Ein Backup-Programm",
+      "Software zur Verwaltung von VMs",
+      "Ein Virenscanner"
+    ],
+    "richtig": 2,
+    "kategorie": "Virtualisierung",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Was ist ein Snapshot?",
+    "antworten": [
+      "Ein Netzwerkgerät",
+      "Gespeicherter Zustand einer VM",
+      "Ein Update",
+      "Ein Screenshot"
+    ],
+    "richtig": 1,
+    "kategorie": "Virtualisierung",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Was ist eine Host-Maschine?",
+    "antworten": [
+      "Netzwerkgerät",
+      "Physischer Rechner für VMs",
+      "Backup-Server",
+      "Virtuelle Maschine"
+    ],
+    "richtig": 1,
+    "kategorie": "Virtualisierung",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Was ist eine Gast-Maschine?",
+    "antworten": [
+      "Virtuelle Maschine auf dem Host",
+      "Physischer Server",
+      "Netzwerkdrucker",
+      "Firewall"
+    ],
+    "richtig": 0,
+    "kategorie": "Virtualisierung",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Was ist vMotion?",
+    "antworten": [
+      "Netzwerkprotokoll",
+      "Backup-Software",
+      "Antivirenprogramm",
+      "Live-Migration von VMs"
+    ],
+    "richtig": 3,
+    "kategorie": "Virtualisierung",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Was ist eine Ressourcenzuteilung?",
+    "antworten": [
+      "Lizenzierung",
+      "Benutzerverwaltung",
+      "Netzwerkfreigabe",
+      "Zuweisung von CPU/RAM an VMs"
+    ],
+    "richtig": 3,
+    "kategorie": "Virtualisierung",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Was ist Thin Provisioning?",
+    "antworten": [
+      "Netzwerkoptimierung",
+      "Dynamische Speicherzuweisung",
+      "Backup-Strategie",
+      "Lizenzmodell"
+    ],
+    "richtig": 1,
+    "kategorie": "Virtualisierung",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Was ist eine VM-Template?",
+    "antworten": [
+      "Backup einer VM",
+      "Netzwerkfreigabe",
+      "Vorlage für neue VMs",
+      "Lizenzmodell"
+    ],
+    "richtig": 2,
+    "kategorie": "Virtualisierung",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Was ist eine vCPU?",
+    "antworten": [
+      "Virtuelle Festplatte",
+      "Virtuelle CPU einer VM",
+      "Virtuelles Netzwerk",
+      "Virtueller Drucker"
+    ],
+    "richtig": 1,
+    "kategorie": "Virtualisierung",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Was ist eine VM-Clusterlösung?",
+    "antworten": [
+      "Lizenzmodell",
+      "Netzwerkprotokoll",
+      "Zusammenschluss mehrerer Hosts für VMs",
+      "Backup-Strategie"
+    ],
+    "richtig": 2,
+    "kategorie": "Virtualisierung",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Was ist eine Paravirtualisierung?",
+    "antworten": [
+      "Netzwerkvirtualisierung",
+      "Teilweise Virtualisierung mit angepasstem OS",
+      "Lizenzierung",
+      "Vollständige Virtualisierung"
+    ],
+    "richtig": 1,
+    "kategorie": "Virtualisierung",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Was ist Nested Virtualization?",
+    "antworten": [
+      "Netzwerkvirtualisierung",
+      "Backup einer VM",
+      "Lizenzierung von VMs",
+      "Virtualisierung innerhalb einer VM"
+    ],
+    "richtig": 3,
+    "kategorie": "Virtualisierung",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Was ist eine vSAN?",
+    "antworten": [
+      "Virtuelle Festplatte",
+      "Virtuelles Backup",
+      "Virtuelles Storage Area Network",
+      "Virtueller Drucker"
+    ],
+    "richtig": 2,
+    "kategorie": "Virtualisierung",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Was ist eine vGPU?",
+    "antworten": [
+      "Virtueller Drucker",
+      "Virtuelles Backup",
+      "Virtuelle Grafikkarte",
+      "Virtuelle Festplatte"
+    ],
+    "richtig": 2,
+    "kategorie": "Virtualisierung",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Was ist ein vCenter?",
+    "antworten": [
+      "Virtueller Drucker",
+      "Virtuelle Festplatte",
+      "Verwaltungsplattform für VMs",
+      "Virtuelles Backup"
+    ],
+    "richtig": 2,
+    "kategorie": "Virtualisierung",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Was ist eine vApp-Template?",
+    "antworten": [
+      "Virtuelle Festplatte",
+      "Vorlage für virtuelle Anwendungen",
+      "Virtuelles Backup",
+      "Virtueller Drucker"
+    ],
+    "richtig": 1,
+    "kategorie": "Virtualisierung",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Was ist ein vMotion-Event?",
+    "antworten": [
+      "Live-Migration einer VM",
+      "Netzwerkfreigabe",
+      "Lizenzmodell",
+      "Backup einer VM"
+    ],
+    "richtig": 0,
+    "kategorie": "Virtualisierung",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Was ist eine VM-Backup-Strategie?",
+    "antworten": [
+      "Benutzerverwaltung",
+      "Regelmäßige Sicherung von VMs",
+      "Lizenzmodell",
+      "Netzwerkoptimierung"
+    ],
+    "richtig": 1,
+    "kategorie": "Virtualisierung",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Was ist eine VM-Replication?",
+    "antworten": [
+      "Kopieren einer VM auf einen anderen Host",
+      "Backup einer VM",
+      "Lizenzmodell",
+      "Netzwerkfreigabe"
+    ],
+    "richtig": 0,
+    "kategorie": "Virtualisierung",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Was ist eine VM-Migration?",
+    "antworten": [
+      "Verschieben einer VM auf einen anderen Host",
+      "Backup einer VM",
+      "Netzwerkfreigabe",
+      "Lizenzmodell"
+    ],
+    "richtig": 0,
+    "kategorie": "Virtualisierung",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Was ist eine VM-Skalierung?",
+    "antworten": [
+      "Lizenzmodell",
+      "Anpassen der Ressourcen einer VM",
+      "Backup einer VM",
+      "Netzwerkfreigabe"
+    ],
+    "richtig": 1,
+    "kategorie": "Virtualisierung",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Was ist eine VM-Sicherung?",
+    "antworten": [
+      "Lizenzmodell",
+      "Netzwerkfreigabe",
+      "Backup einer VM",
+      "Virtuelle Festplatte"
+    ],
+    "richtig": 2,
+    "kategorie": "Virtualisierung",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Was ist eine VM-Wiederherstellung?",
+    "antworten": [
+      "Netzwerkfreigabe",
+      "Virtuelle Festplatte",
+      "Lizenzmodell",
+      "Rückspielen eines Backups"
+    ],
+    "richtig": 3,
+    "kategorie": "Virtualisierung",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Was ist eine VM-Überwachung?",
+    "antworten": [
+      "Netzwerkfreigabe",
+      "Lizenzmodell",
+      "Monitoring von VM-Ressourcen",
+      "Backup einer VM"
+    ],
+    "richtig": 2,
+    "kategorie": "Virtualisierung",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Was ist eine VM-Lizenzierung?",
+    "antworten": [
+      "Virtuelle Festplatte",
+      "Netzwerkfreigabe",
+      "Backup einer VM",
+      "Zuweisung von Lizenzen an VMs"
+    ],
+    "richtig": 3,
+    "kategorie": "Virtualisierung",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Was ist eine VM-Template-Verwaltung?",
+    "antworten": [
+      "Backup einer VM",
+      "Lizenzmodell",
+      "Organisation von VM-Vorlagen",
+      "Netzwerkfreigabe"
+    ],
+    "richtig": 2,
+    "kategorie": "Virtualisierung",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Was ist eine VM-Backup-Software?",
+    "antworten": [
+      "Netzwerkoptimierung",
+      "Lizenzmodell",
+      "Benutzerverwaltung",
+      "Programm zur Sicherung von VMs"
+    ],
+    "richtig": 3,
+    "kategorie": "Virtualisierung",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Was ist eine VM-API?",
+    "antworten": [
+      "Backup einer VM",
+      "Lizenzmodell",
+      "Programmierschnittstelle für VMs",
+      "Netzwerkfreigabe"
+    ],
+    "richtig": 2,
+    "kategorie": "Virtualisierung",
+    "schwierigkeit": "schwer"
+  },
+  {
+    "frage": "Was ist eine VM-Containerisierung?",
+    "antworten": [
+      "Ausführung von Containern in VMs",
+      "Backup einer VM",
+      "Lizenzmodell",
+      "Netzwerkfreigabe"
+    ],
+    "richtig": 0,
+    "kategorie": "Virtualisierung",
+    "schwierigkeit": "schwer"
+  },
+  {
+    "frage": "Was ist eine VM-Cloud-Integration?",
+    "antworten": [
+      "Anbindung von VMs an Cloud-Dienste",
+      "Netzwerkfreigabe",
+      "Backup einer VM",
+      "Lizenzmodell"
+    ],
+    "richtig": 0,
+    "kategorie": "Virtualisierung",
+    "schwierigkeit": "schwer"
+  },
+  {
+    "frage": "Was ist eine VM-Backup-Automatisierung?",
+    "antworten": [
+      "Benutzerverwaltung",
+      "Netzwerkoptimierung",
+      "Automatisierte Sicherung von VMs",
+      "Lizenzmodell"
+    ],
+    "richtig": 2,
+    "kategorie": "Virtualisierung",
+    "schwierigkeit": "schwer"
+  },
+  {
+    "frage": "Was ist eine VM-Fehlertoleranz?",
+    "antworten": [
+      "Lizenzmodell",
+      "Backup einer VM",
+      "Ausfallsicherheit von VMs",
+      "Netzwerkfreigabe"
+    ],
+    "richtig": 2,
+    "kategorie": "Virtualisierung",
+    "schwierigkeit": "schwer"
+  },
+  {
+    "frage": "Was ist eine VM-Backup-Verschlüsselung?",
+    "antworten": [
+      "Netzwerkoptimierung",
+      "Verschlüsselung von VM-Backups",
+      "Lizenzmodell",
+      "Benutzerverwaltung"
+    ],
+    "richtig": 1,
+    "kategorie": "Virtualisierung",
+    "schwierigkeit": "schwer"
+  },
+  {
+    "frage": "Was ist eine VM-Backup-Validierung?",
+    "antworten": [
+      "Überprüfung von VM-Backups",
+      "Netzwerkoptimierung",
+      "Lizenzmodell",
+      "Benutzerverwaltung"
+    ],
+    "richtig": 0,
+    "kategorie": "Virtualisierung",
+    "schwierigkeit": "schwer"
+  },
+  {
+    "frage": "Was ist eine VM-Backup-Retention?",
+    "antworten": [
+      "Lizenzmodell",
+      "Netzwerkoptimierung",
+      "Benutzerverwaltung",
+      "Aufbewahrung von VM-Backups"
+    ],
+    "richtig": 3,
+    "kategorie": "Virtualisierung",
+    "schwierigkeit": "schwer"
+  },
+  {
+    "frage": "Was ist eine VM-Backup-Restore?",
+    "antworten": [
+      "Benutzerverwaltung",
+      "Wiederherstellung von VM-Backups",
+      "Lizenzmodell",
+      "Netzwerkoptimierung"
+    ],
+    "richtig": 1,
+    "kategorie": "Virtualisierung",
+    "schwierigkeit": "schwer"
+  },
+  {
+    "frage": "Was ist eine VM-Backup-Planung?",
+    "antworten": [
+      "Zeitgesteuerte Sicherung von VMs",
+      "Benutzerverwaltung",
+      "Lizenzmodell",
+      "Netzwerkoptimierung"
+    ],
+    "richtig": 0,
+    "kategorie": "Virtualisierung",
+    "schwierigkeit": "schwer"
+  },
+  {
+    "frage": "Was ist eine VM-Backup-Überwachung?",
+    "antworten": [
+      "Monitoring von VM-Backups",
+      "Lizenzmodell",
+      "Benutzerverwaltung",
+      "Netzwerkoptimierung"
+    ],
+    "richtig": 0,
+    "kategorie": "Virtualisierung",
+    "schwierigkeit": "schwer"
+  },
+  {
+    "frage": "Was ist eine VM-Backup-Berichtserstellung?",
+    "antworten": [
+      "Erstellung von Berichten zu VM-Backups",
+      "Netzwerkoptimierung",
+      "Lizenzmodell",
+      "Benutzerverwaltung"
+    ],
+    "richtig": 0,
+    "kategorie": "Virtualisierung",
+    "schwierigkeit": "schwer"
+  },
+  {
+    "frage": "Was ist eine VM-Backup-Integration?",
+    "antworten": [
+      "Anbindung von VM-Backups an andere Systeme",
+      "Netzwerkoptimierung",
+      "Benutzerverwaltung",
+      "Lizenzmodell"
+    ],
+    "richtig": 0,
+    "kategorie": "Virtualisierung",
+    "schwierigkeit": "schwer"
+  },
+  {
+    "frage": "Was ist eine VM-Backup-API?",
+    "antworten": [
+      "Lizenzmodell",
+      "Benutzerverwaltung",
+      "Netzwerkoptimierung",
+      "Programmierschnittstelle für VM-Backups"
+    ],
+    "richtig": 3,
+    "kategorie": "Virtualisierung",
+    "schwierigkeit": "schwer"
+  },
+  {
+    "frage": "Was ist eine VM-Backup-Cloud-Integration?",
+    "antworten": [
+      "Benutzerverwaltung",
+      "Lizenzmodell",
+      "Anbindung von VM-Backups an Cloud-Dienste",
+      "Netzwerkoptimierung"
+    ],
+    "richtig": 2,
+    "kategorie": "Virtualisierung",
+    "schwierigkeit": "schwer"
+  },
+  {
+    "frage": "Was ist eine virtuelle Festplatte?",
+    "antworten": [
+      "USB-Stick",
+      "Physische Festplatte",
+      "Datei, die als Festplatte dient",
+      "Netzwerklaufwerk"
+    ],
+    "richtig": 2,
+    "kategorie": "VM-Konzepte",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Was ist ein ISO-Image?",
+    "antworten": [
+      "Netzwerkprotokoll",
+      "Abbild einer CD/DVD",
+      "Lizenzdatei",
+      "Backup einer VM"
+    ],
+    "richtig": 1,
+    "kategorie": "VM-Konzepte",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Was ist ein vNIC?",
+    "antworten": [
+      "Virtuelle Festplatte",
+      "Virtueller Drucker",
+      "Virtuelles Backup",
+      "Virtuelle Netzwerkkarte"
+    ],
+    "richtig": 3,
+    "kategorie": "VM-Konzepte",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Was ist ein vSwitch?",
+    "antworten": [
+      "Virtueller Drucker",
+      "Virtuelles Backup",
+      "Virtuelle Festplatte",
+      "Virtueller Switch für VMs"
+    ],
+    "richtig": 3,
+    "kategorie": "VM-Konzepte",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Was ist ein vApp?",
+    "antworten": [
+      "Virtuelle Anwendung",
+      "Virtuelle Festplatte",
+      "Virtuelles Backup",
+      "Virtueller Drucker"
+    ],
+    "richtig": 0,
+    "kategorie": "VM-Konzepte",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Was ist ein vmdk-File?",
+    "antworten": [
+      "Netzwerkdatei",
+      "Lizenzdatei",
+      "Backup-Datei",
+      "Virtuelle Festplattendatei"
+    ],
+    "richtig": 3,
+    "kategorie": "VM-Konzepte",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Was ist ein OVF-Template?",
+    "antworten": [
+      "Backup einer VM",
+      "Lizenzmodell",
+      "Vorlage für VMs",
+      "Netzwerkprotokoll"
+    ],
+    "richtig": 2,
+    "kategorie": "VM-Konzepte",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Was ist ein VM-Backup?",
+    "antworten": [
+      "Sicherung einer VM",
+      "Lizenzmodell",
+      "Netzwerkfreigabe",
+      "Virtuelle Festplatte"
+    ],
+    "richtig": 0,
+    "kategorie": "VM-Konzepte",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Was ist ein VM-Snapshot?",
+    "antworten": [
+      "Gespeicherter Zustand einer VM",
+      "Backup einer VM",
+      "Netzwerkfreigabe",
+      "Lizenzmodell"
+    ],
+    "richtig": 0,
+    "kategorie": "VM-Konzepte",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Was ist ein VM-Clone?",
+    "antworten": [
+      "Lizenzmodell",
+      "Kopie einer VM",
+      "Backup einer VM",
+      "Netzwerkfreigabe"
+    ],
+    "richtig": 1,
+    "kategorie": "VM-Konzepte",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Was ist eine vSAN?",
+    "antworten": [
+      "Virtueller Drucker",
+      "Virtuelles Backup",
+      "Virtuelles Storage Area Network",
+      "Virtuelle Festplatte"
+    ],
+    "richtig": 2,
+    "kategorie": "VM-Konzepte",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Was ist eine vGPU?",
+    "antworten": [
+      "Virtuelle Festplatte",
+      "Virtuelle Grafikkarte",
+      "Virtuelles Backup",
+      "Virtueller Drucker"
+    ],
+    "richtig": 1,
+    "kategorie": "VM-Konzepte",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Was ist ein vCenter?",
+    "antworten": [
+      "Virtueller Drucker",
+      "Verwaltungsplattform für VMs",
+      "Virtuelle Festplatte",
+      "Virtuelles Backup"
+    ],
+    "richtig": 1,
+    "kategorie": "VM-Konzepte",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Was ist eine vApp-Template?",
+    "antworten": [
+      "Virtuelle Festplatte",
+      "Virtuelles Backup",
+      "Vorlage für virtuelle Anwendungen",
+      "Virtueller Drucker"
+    ],
+    "richtig": 2,
+    "kategorie": "VM-Konzepte",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Was ist ein vMotion-Event?",
+    "antworten": [
+      "Live-Migration einer VM",
+      "Lizenzmodell",
+      "Netzwerkfreigabe",
+      "Backup einer VM"
+    ],
+    "richtig": 0,
+    "kategorie": "VM-Konzepte",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Was ist eine VM-Backup-Strategie?",
+    "antworten": [
+      "Benutzerverwaltung",
+      "Regelmäßige Sicherung von VMs",
+      "Lizenzmodell",
+      "Netzwerkoptimierung"
+    ],
+    "richtig": 1,
+    "kategorie": "VM-Konzepte",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Was ist eine VM-Replication?",
+    "antworten": [
+      "Lizenzmodell",
+      "Backup einer VM",
+      "Kopieren einer VM auf einen anderen Host",
+      "Netzwerkfreigabe"
+    ],
+    "richtig": 2,
+    "kategorie": "VM-Konzepte",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Was ist eine VM-Migration?",
+    "antworten": [
+      "Verschieben einer VM auf einen anderen Host",
+      "Lizenzmodell",
+      "Backup einer VM",
+      "Netzwerkfreigabe"
+    ],
+    "richtig": 0,
+    "kategorie": "VM-Konzepte",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Was ist eine VM-Skalierung?",
+    "antworten": [
+      "Lizenzmodell",
+      "Anpassen der Ressourcen einer VM",
+      "Backup einer VM",
+      "Netzwerkfreigabe"
+    ],
+    "richtig": 1,
+    "kategorie": "VM-Konzepte",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Was ist eine VM-Sicherung?",
+    "antworten": [
+      "Backup einer VM",
+      "Lizenzmodell",
+      "Netzwerkfreigabe",
+      "Virtuelle Festplatte"
+    ],
+    "richtig": 0,
+    "kategorie": "VM-Konzepte",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Was ist eine VM-Wiederherstellung?",
+    "antworten": [
+      "Lizenzmodell",
+      "Virtuelle Festplatte",
+      "Netzwerkfreigabe",
+      "Rückspielen eines Backups"
+    ],
+    "richtig": 3,
+    "kategorie": "VM-Konzepte",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Was ist eine VM-Überwachung?",
+    "antworten": [
+      "Netzwerkfreigabe",
+      "Lizenzmodell",
+      "Monitoring von VM-Ressourcen",
+      "Backup einer VM"
+    ],
+    "richtig": 2,
+    "kategorie": "VM-Konzepte",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Was ist eine VM-Lizenzierung?",
+    "antworten": [
+      "Backup einer VM",
+      "Netzwerkfreigabe",
+      "Virtuelle Festplatte",
+      "Zuweisung von Lizenzen an VMs"
+    ],
+    "richtig": 3,
+    "kategorie": "VM-Konzepte",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Was ist eine VM-Template-Verwaltung?",
+    "antworten": [
+      "Organisation von VM-Vorlagen",
+      "Lizenzmodell",
+      "Netzwerkfreigabe",
+      "Backup einer VM"
+    ],
+    "richtig": 0,
+    "kategorie": "VM-Konzepte",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Was ist eine VM-Backup-Software?",
+    "antworten": [
+      "Programm zur Sicherung von VMs",
+      "Netzwerkoptimierung",
+      "Lizenzmodell",
+      "Benutzerverwaltung"
+    ],
+    "richtig": 0,
+    "kategorie": "VM-Konzepte",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Was ist eine VM-API?",
+    "antworten": [
+      "Netzwerkfreigabe",
+      "Programmierschnittstelle für VMs",
+      "Lizenzmodell",
+      "Backup einer VM"
+    ],
+    "richtig": 1,
+    "kategorie": "VM-Konzepte",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Was ist eine VM-Containerisierung?",
+    "antworten": [
+      "Ausführung von Containern in VMs",
+      "Netzwerkfreigabe",
+      "Backup einer VM",
+      "Lizenzmodell"
+    ],
+    "richtig": 0,
+    "kategorie": "VM-Konzepte",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Was ist eine VM-Cloud-Integration?",
+    "antworten": [
+      "Anbindung von VMs an Cloud-Dienste",
+      "Backup einer VM",
+      "Netzwerkfreigabe",
+      "Lizenzmodell"
+    ],
+    "richtig": 0,
+    "kategorie": "VM-Konzepte",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Was ist eine VM-Backup-Automatisierung?",
+    "antworten": [
+      "Benutzerverwaltung",
+      "Lizenzmodell",
+      "Automatisierte Sicherung von VMs",
+      "Netzwerkoptimierung"
+    ],
+    "richtig": 2,
+    "kategorie": "VM-Konzepte",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Was ist eine VM-Fehlertoleranz?",
+    "antworten": [
+      "Backup einer VM",
+      "Netzwerkfreigabe",
+      "Lizenzmodell",
+      "Ausfallsicherheit von VMs"
+    ],
+    "richtig": 3,
+    "kategorie": "VM-Konzepte",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Was ist eine VM-Backup-Verschlüsselung?",
+    "antworten": [
+      "Benutzerverwaltung",
+      "Lizenzmodell",
+      "Verschlüsselung von VM-Backups",
+      "Netzwerkoptimierung"
+    ],
+    "richtig": 2,
+    "kategorie": "VM-Konzepte",
+    "schwierigkeit": "schwer"
+  },
+  {
+    "frage": "Was ist eine VM-Backup-Validierung?",
+    "antworten": [
+      "Überprüfung von VM-Backups",
+      "Lizenzmodell",
+      "Netzwerkoptimierung",
+      "Benutzerverwaltung"
+    ],
+    "richtig": 0,
+    "kategorie": "VM-Konzepte",
+    "schwierigkeit": "schwer"
+  },
+  {
+    "frage": "Was ist eine VM-Backup-Retention?",
+    "antworten": [
+      "Aufbewahrung von VM-Backups",
+      "Benutzerverwaltung",
+      "Lizenzmodell",
+      "Netzwerkoptimierung"
+    ],
+    "richtig": 0,
+    "kategorie": "VM-Konzepte",
+    "schwierigkeit": "schwer"
+  },
+  {
+    "frage": "Was ist eine VM-Backup-Restore?",
+    "antworten": [
+      "Lizenzmodell",
+      "Benutzerverwaltung",
+      "Wiederherstellung von VM-Backups",
+      "Netzwerkoptimierung"
+    ],
+    "richtig": 2,
+    "kategorie": "VM-Konzepte",
+    "schwierigkeit": "schwer"
+  },
+  {
+    "frage": "Was ist eine VM-Backup-Planung?",
+    "antworten": [
+      "Lizenzmodell",
+      "Netzwerkoptimierung",
+      "Zeitgesteuerte Sicherung von VMs",
+      "Benutzerverwaltung"
+    ],
+    "richtig": 2,
+    "kategorie": "VM-Konzepte",
+    "schwierigkeit": "schwer"
+  },
+  {
+    "frage": "Was ist eine VM-Backup-Überwachung?",
+    "antworten": [
+      "Lizenzmodell",
+      "Netzwerkoptimierung",
+      "Benutzerverwaltung",
+      "Monitoring von VM-Backups"
+    ],
+    "richtig": 3,
+    "kategorie": "VM-Konzepte",
+    "schwierigkeit": "schwer"
+  },
+  {
+    "frage": "Was ist eine VM-Backup-Berichtserstellung?",
+    "antworten": [
+      "Benutzerverwaltung",
+      "Erstellung von Berichten zu VM-Backups",
+      "Netzwerkoptimierung",
+      "Lizenzmodell"
+    ],
+    "richtig": 1,
+    "kategorie": "VM-Konzepte",
+    "schwierigkeit": "schwer"
+  },
+  {
+    "frage": "Was ist eine VM-Backup-Integration?",
+    "antworten": [
+      "Lizenzmodell",
+      "Benutzerverwaltung",
+      "Netzwerkoptimierung",
+      "Anbindung von VM-Backups an andere Systeme"
+    ],
+    "richtig": 3,
+    "kategorie": "VM-Konzepte",
+    "schwierigkeit": "schwer"
+  },
+  {
+    "frage": "Was ist eine VM-Backup-API?",
+    "antworten": [
+      "Netzwerkoptimierung",
+      "Programmierschnittstelle für VM-Backups",
+      "Benutzerverwaltung",
+      "Lizenzmodell"
+    ],
+    "richtig": 1,
+    "kategorie": "VM-Konzepte",
+    "schwierigkeit": "schwer"
+  },
+  {
+    "frage": "Was ist eine VM-Backup-Cloud-Integration?",
+    "antworten": [
+      "Anbindung von VM-Backups an Cloud-Dienste",
+      "Lizenzmodell",
+      "Netzwerkoptimierung",
+      "Benutzerverwaltung"
+    ],
+    "richtig": 0,
+    "kategorie": "VM-Konzepte",
+    "schwierigkeit": "schwer"
+  },
+  {
+    "frage": "Was ist eine VM-Backup-Strategie?",
+    "antworten": [
+      "Benutzerverwaltung",
+      "Regelmäßige Sicherung von VMs",
+      "Lizenzmodell",
+      "Netzwerkoptimierung"
+    ],
+    "richtig": 1,
+    "kategorie": "VM-Konzepte",
+    "schwierigkeit": "schwer"
+  },
+  {
+    "frage": "Was ist eine VM-Replication?",
+    "antworten": [
+      "Netzwerkfreigabe",
+      "Lizenzmodell",
+      "Kopieren einer VM auf einen anderen Host",
+      "Backup einer VM"
+    ],
+    "richtig": 2,
+    "kategorie": "VM-Konzepte",
+    "schwierigkeit": "schwer"
+  },
+  {
+    "frage": "Was ist eine VM-Migration?",
+    "antworten": [
+      "Verschieben einer VM auf einen anderen Host",
+      "Lizenzmodell",
+      "Backup einer VM",
+      "Netzwerkfreigabe"
+    ],
+    "richtig": 0,
+    "kategorie": "VM-Konzepte",
+    "schwierigkeit": "schwer"
+  },
+  {
+    "frage": "Was ist eine VM-Skalierung?",
+    "antworten": [
+      "Lizenzmodell",
+      "Netzwerkfreigabe",
+      "Backup einer VM",
+      "Anpassen der Ressourcen einer VM"
+    ],
+    "richtig": 3,
+    "kategorie": "VM-Konzepte",
+    "schwierigkeit": "schwer"
+  },
+  {
+    "frage": "Was ist eine VM-Sicherung?",
+    "antworten": [
+      "Netzwerkfreigabe",
+      "Lizenzmodell",
+      "Backup einer VM",
+      "Virtuelle Festplatte"
+    ],
+    "richtig": 2,
+    "kategorie": "VM-Konzepte",
+    "schwierigkeit": "schwer"
+  },
+  {
+    "frage": "Was ist eine VM-Wiederherstellung?",
+    "antworten": [
+      "Lizenzmodell",
+      "Rückspielen eines Backups",
+      "Virtuelle Festplatte",
+      "Netzwerkfreigabe"
+    ],
+    "richtig": 1,
+    "kategorie": "VM-Konzepte",
+    "schwierigkeit": "schwer"
+  },
+  {
+    "frage": "Was ist Automatisierung?",
+    "antworten": [
+      "Automatisches Ausführen von Aufgaben",
+      "Manuelles Arbeiten",
+      "Backup von Daten",
+      "Netzwerkoptimierung"
+    ],
+    "richtig": 0,
+    "kategorie": "Automatisierung",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Welches Tool ist für Windows-Automatisierung bekannt?",
+    "antworten": [
+      "Paint",
+      "PowerShell",
+      "Excel",
+      "Word"
+    ],
+    "richtig": 1,
+    "kategorie": "Automatisierung",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Was ist ein Skript?",
+    "antworten": [
+      "Netzwerkprotokoll",
+      "Lizenzmodell",
+      "Backup-Datei",
+      "Automatisierte Befehlsfolge"
+    ],
+    "richtig": 3,
+    "kategorie": "Automatisierung",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Was ist ein Task Scheduler?",
+    "antworten": [
+      "Lizenzmodell",
+      "Backup-Programm",
+      "Netzwerkprotokoll",
+      "Zeitgesteuerte Aufgabenplanung"
+    ],
+    "richtig": 3,
+    "kategorie": "Automatisierung",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Was ist ein Batch-File?",
+    "antworten": [
+      "Netzwerkprotokoll",
+      "Lizenzmodell",
+      "Backup-Datei",
+      "Skriptdatei für Windows"
+    ],
+    "richtig": 3,
+    "kategorie": "Automatisierung",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Was ist eine Pipeline in PowerShell?",
+    "antworten": [
+      "Verkettung von Befehlen",
+      "Backup-Strategie",
+      "Lizenzmodell",
+      "Netzwerkprotokoll"
+    ],
+    "richtig": 0,
+    "kategorie": "Automatisierung",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Was ist ein Cronjob?",
+    "antworten": [
+      "Lizenzmodell",
+      "Backup-Programm",
+      "Netzwerkprotokoll",
+      "Geplante Aufgabe unter Linux"
+    ],
+    "richtig": 3,
+    "kategorie": "Automatisierung",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Was ist Ansible?",
+    "antworten": [
+      "Backup-Programm",
+      "Netzwerkprotokoll",
+      "Lizenzmodell",
+      "Automatisierungs-Tool"
+    ],
+    "richtig": 3,
+    "kategorie": "Automatisierung",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Was ist ein Webhook?",
+    "antworten": [
+      "Netzwerkprotokoll",
+      "Automatisierte Benachrichtigung",
+      "Lizenzmodell",
+      "Backup-Programm"
+    ],
+    "richtig": 1,
+    "kategorie": "Automatisierung",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Was ist ein Makro?",
+    "antworten": [
+      "Automatisierte Aktion in Programmen",
+      "Backup-Programm",
+      "Lizenzmodell",
+      "Netzwerkprotokoll"
+    ],
+    "richtig": 0,
+    "kategorie": "Automatisierung",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Was ist Infrastructure as Code?",
+    "antworten": [
+      "Automatisierte Bereitstellung von IT-Infrastruktur",
+      "Backup-Strategie",
+      "Netzwerkprotokoll",
+      "Lizenzmodell"
+    ],
+    "richtig": 0,
+    "kategorie": "Automatisierung",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Was ist ein CI/CD-Prozess?",
+    "antworten": [
+      "Netzwerkprotokoll",
+      "Automatisierte Softwarebereitstellung",
+      "Lizenzmodell",
+      "Backup-Strategie"
+    ],
+    "richtig": 1,
+    "kategorie": "Automatisierung",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Was ist Jenkins?",
+    "antworten": [
+      "Automatisierungsserver",
+      "Lizenzmodell",
+      "Backup-Programm",
+      "Netzwerkprotokoll"
+    ],
+    "richtig": 0,
+    "kategorie": "Automatisierung",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Was ist ein Playbook in Ansible?",
+    "antworten": [
+      "Backup-Strategie",
+      "Netzwerkprotokoll",
+      "Sammlung von Automatisierungsaufgaben",
+      "Lizenzmodell"
+    ],
+    "richtig": 2,
+    "kategorie": "Automatisierung",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Was ist ein Agent in der Automatisierung?",
+    "antworten": [
+      "Backup-Programm",
+      "Netzwerkprotokoll",
+      "Lizenzmodell",
+      "Programm zur Ausführung von Aufgaben"
+    ],
+    "richtig": 3,
+    "kategorie": "Automatisierung",
+    "schwierigkeit": "leicht"
+  }
+]
