@@ -1,0 +1,182 @@
+[
+  {
+    "frage": "Was ist eine vSAN?",
+    "antworten": [
+      "Virtuelle Festplatte",
+      "Virtueller Drucker",
+      "Virtuelles Storage Area Network",
+      "Virtuelles Backup"
+    ],
+    "richtig": 2,
+    "kategorie": "Virtualisierung",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Was ist eine vGPU?",
+    "antworten": [
+      "Virtuelles Backup",
+      "Virtuelle Grafikkarte",
+      "Virtueller Drucker",
+      "Virtuelle Festplatte"
+    ],
+    "richtig": 1,
+    "kategorie": "Virtualisierung",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Was ist ein vCenter?",
+    "antworten": [
+      "Virtuelles Backup",
+      "Virtuelle Festplatte",
+      "Verwaltungsplattform für VMs",
+      "Virtueller Drucker"
+    ],
+    "richtig": 2,
+    "kategorie": "Virtualisierung",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Was ist eine vApp-Template?",
+    "antworten": [
+      "Virtuelles Backup",
+      "Virtueller Drucker",
+      "Virtuelle Festplatte",
+      "Vorlage für virtuelle Anwendungen"
+    ],
+    "richtig": 3,
+    "kategorie": "Virtualisierung",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Was ist ein vMotion-Event?",
+    "antworten": [
+      "Netzwerkfreigabe",
+      "Live-Migration einer VM",
+      "Backup einer VM",
+      "Lizenzmodell"
+    ],
+    "richtig": 1,
+    "kategorie": "Virtualisierung",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Was ist eine VM-Backup-Strategie?",
+    "antworten": [
+      "Lizenzmodell",
+      "Netzwerkoptimierung",
+      "Benutzerverwaltung",
+      "Regelmäßige Sicherung von VMs"
+    ],
+    "richtig": 3,
+    "kategorie": "Virtualisierung",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Was ist eine VM-Replication?",
+    "antworten": [
+      "Backup einer VM",
+      "Lizenzmodell",
+      "Kopieren einer VM auf einen anderen Host",
+      "Netzwerkfreigabe"
+    ],
+    "richtig": 2,
+    "kategorie": "Virtualisierung",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Was ist eine VM-Migration?",
+    "antworten": [
+      "Lizenzmodell",
+      "Netzwerkfreigabe",
+      "Backup einer VM",
+      "Verschieben einer VM auf einen anderen Host"
+    ],
+    "richtig": 3,
+    "kategorie": "Virtualisierung",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Was ist eine VM-Skalierung?",
+    "antworten": [
+      "Anpassen der Ressourcen einer VM",
+      "Lizenzmodell",
+      "Netzwerkfreigabe",
+      "Backup einer VM"
+    ],
+    "richtig": 0,
+    "kategorie": "Virtualisierung",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Was ist eine VM-Sicherung?",
+    "antworten": [
+      "Netzwerkfreigabe",
+      "Lizenzmodell",
+      "Virtuelle Festplatte",
+      "Backup einer VM"
+    ],
+    "richtig": 3,
+    "kategorie": "Virtualisierung",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Was ist eine VM-Wiederherstellung?",
+    "antworten": [
+      "Rückspielen eines Backups",
+      "Netzwerkfreigabe",
+      "Lizenzmodell",
+      "Virtuelle Festplatte"
+    ],
+    "richtig": 0,
+    "kategorie": "Virtualisierung",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Was ist eine VM-Überwachung?",
+    "antworten": [
+      "Monitoring von VM-Ressourcen",
+      "Netzwerkfreigabe",
+      "Lizenzmodell",
+      "Backup einer VM"
+    ],
+    "richtig": 0,
+    "kategorie": "Virtualisierung",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Was ist eine VM-Lizenzierung?",
+    "antworten": [
+      "Virtuelle Festplatte",
+      "Netzwerkfreigabe",
+      "Zuweisung von Lizenzen an VMs",
+      "Backup einer VM"
+    ],
+    "richtig": 2,
+    "kategorie": "Virtualisierung",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Was ist eine VM-Template-Verwaltung?",
+    "antworten": [
+      "Organisation von VM-Vorlagen",
+      "Backup einer VM",
+      "Netzwerkfreigabe",
+      "Lizenzmodell"
+    ],
+    "richtig": 0,
+    "kategorie": "Virtualisierung",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Was ist eine VM-Backup-Software?",
+    "antworten": [
+      "Netzwerkoptimierung",
+      "Lizenzmodell",
+      "Programm zur Sicherung von VMs",
+      "Benutzerverwaltung"
+    ],
+    "richtig": 2,
+    "kategorie": "Virtualisierung",
+    "schwierigkeit": "mittel"
+  }
+]

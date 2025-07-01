@@ -1,0 +1,182 @@
+[
+  {
+    "frage": "Was ist ein Cronjob?",
+    "antworten": [
+      "Lizenzmodell",
+      "Netzwerkprotokoll",
+      "Backup-Programm",
+      "Geplante Aufgabe unter Linux"
+    ],
+    "richtig": 3,
+    "kategorie": "Automatisierung",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Was ist eine Pipeline in PowerShell?",
+    "antworten": [
+      "Backup-Strategie",
+      "Netzwerkprotokoll",
+      "Verkettung von Befehlen",
+      "Lizenzmodell"
+    ],
+    "richtig": 2,
+    "kategorie": "Automatisierung",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Was ist Ansible?",
+    "antworten": [
+      "Automatisierungs-Tool",
+      "Lizenzmodell",
+      "Backup-Programm",
+      "Netzwerkprotokoll"
+    ],
+    "richtig": 0,
+    "kategorie": "Automatisierung",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Was ist ein Webhook?",
+    "antworten": [
+      "Backup-Programm",
+      "Netzwerkprotokoll",
+      "Automatisierte Benachrichtigung",
+      "Lizenzmodell"
+    ],
+    "richtig": 2,
+    "kategorie": "Automatisierung",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Was ist ein Makro?",
+    "antworten": [
+      "Lizenzmodell",
+      "Automatisierte Aktion in Programmen",
+      "Netzwerkprotokoll",
+      "Backup-Programm"
+    ],
+    "richtig": 1,
+    "kategorie": "Automatisierung",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Was ist ein Playbook in Ansible?",
+    "antworten": [
+      "Lizenzmodell",
+      "Backup-Strategie",
+      "Netzwerkprotokoll",
+      "Sammlung von Automatisierungsaufgaben"
+    ],
+    "richtig": 3,
+    "kategorie": "Automatisierung",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Was ist ein Agent in der Automatisierung?",
+    "antworten": [
+      "Lizenzmodell",
+      "Netzwerkprotokoll",
+      "Backup-Programm",
+      "Programm zur Ausführung von Aufgaben"
+    ],
+    "richtig": 3,
+    "kategorie": "Automatisierung",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Was ist ein Task Runner?",
+    "antworten": [
+      "Lizenzmodell",
+      "Werkzeug zur Automatisierung von Aufgaben",
+      "Netzwerkprotokoll",
+      "Backup-Programm"
+    ],
+    "richtig": 1,
+    "kategorie": "Automatisierung",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Was ist ein Build-Tool?",
+    "antworten": [
+      "Netzwerkprotokoll",
+      "Automatisiert den Software-Bauprozess",
+      "Backup-Programm",
+      "Lizenzmodell"
+    ],
+    "richtig": 1,
+    "kategorie": "Automatisierung",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Was ist ein Deployment-Skript?",
+    "antworten": [
+      "Backup-Programm",
+      "Automatisiert die Bereitstellung von Software",
+      "Netzwerkprotokoll",
+      "Lizenzmodell"
+    ],
+    "richtig": 1,
+    "kategorie": "Automatisierung",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Was ist ein Scheduler?",
+    "antworten": [
+      "Netzwerkprotokoll",
+      "Backup-Programm",
+      "Plant und steuert automatisierte Aufgaben",
+      "Lizenzmodell"
+    ],
+    "richtig": 2,
+    "kategorie": "Automatisierung",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Was ist ein Trigger in der Automatisierung?",
+    "antworten": [
+      "Ereignis, das eine Aktion auslöst",
+      "Lizenzmodell",
+      "Netzwerkprotokoll",
+      "Backup-Programm"
+    ],
+    "richtig": 0,
+    "kategorie": "Automatisierung",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Was ist ein Workflow?",
+    "antworten": [
+      "Lizenzmodell",
+      "Abfolge automatisierter Schritte",
+      "Backup-Programm",
+      "Netzwerkprotokoll"
+    ],
+    "richtig": 1,
+    "kategorie": "Automatisierung",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Was ist ein Monitoring-Tool?",
+    "antworten": [
+      "Überwacht automatisierte Prozesse",
+      "Backup-Programm",
+      "Netzwerkprotokoll",
+      "Lizenzmodell"
+    ],
+    "richtig": 0,
+    "kategorie": "Automatisierung",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Was ist ein Rollback in der Automatisierung?",
+    "antworten": [
+      "Rückgängig machen einer automatisierten Änderung",
+      "Netzwerkprotokoll",
+      "Backup-Programm",
+      "Lizenzmodell"
+    ],
+    "richtig": 0,
+    "kategorie": "Automatisierung",
+    "schwierigkeit": "mittel"
+  }
+]

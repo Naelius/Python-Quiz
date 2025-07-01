@@ -1,0 +1,182 @@
+[
+  {
+    "frage": "Wie listet man alle Dateien in einem Verzeichnis mit PowerShell auf?",
+    "antworten": [
+      "List-Dir",
+      "Show-Files",
+      "Get-ChildItem",
+      "Get-File"
+    ],
+    "richtig": 2,
+    "kategorie": "PowerShell",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Wie gibt man Text in PowerShell aus?",
+    "antworten": [
+      "Show-Text",
+      "Echo",
+      "Write-Output",
+      "Print"
+    ],
+    "richtig": 2,
+    "kategorie": "PowerShell",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Welcher Befehl zeigt die aktuelle Uhrzeit an?",
+    "antworten": [
+      "Show-Time",
+      "Time-Now",
+      "Current-Time",
+      "Get-Date"
+    ],
+    "richtig": 3,
+    "kategorie": "PowerShell",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Wie beendet man PowerShell?",
+    "antworten": [
+      "Exit",
+      "Stop",
+      "Quit",
+      "End"
+    ],
+    "richtig": 0,
+    "kategorie": "PowerShell",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Wie ruft man Hilfe zu einem Befehl ab?",
+    "antworten": [
+      "HelpMe",
+      "Help-Get",
+      "Get-Help",
+      "Show-Help"
+    ],
+    "richtig": 2,
+    "kategorie": "PowerShell",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Wie kann man eine Variable deklarieren?",
+    "antworten": [
+      "int var = 5",
+      "let var = 5",
+      "$var = 5",
+      "var = 5"
+    ],
+    "richtig": 2,
+    "kategorie": "PowerShell",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Wie kann man eine Datei löschen?",
+    "antworten": [
+      "Delete-File",
+      "Erase-Item",
+      "Del-Object",
+      "Remove-Item"
+    ],
+    "richtig": 3,
+    "kategorie": "PowerShell",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Wie kann man den Inhalt einer Textdatei anzeigen?",
+    "antworten": [
+      "Get-Content",
+      "Show-File",
+      "Display-Content",
+      "Read-Text"
+    ],
+    "richtig": 0,
+    "kategorie": "PowerShell",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Wie kann man einen Dienst in PowerShell starten?",
+    "antworten": [
+      "Start-Service",
+      "Run-Service",
+      "Enable-Service",
+      "Begin-Service"
+    ],
+    "richtig": 0,
+    "kategorie": "PowerShell",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Wie kann man Prozesse nach Namen filtern?",
+    "antworten": [
+      "ps notepad",
+      "Get-Process -Name notepad",
+      "Find-Process notepad",
+      "Process-Get notepad"
+    ],
+    "richtig": 1,
+    "kategorie": "PowerShell",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Wie kann man ein Skript ausführen?",
+    "antworten": [
+      "execute script.ps1",
+      "run script.ps1",
+      "script.ps1 --run",
+      "./script.ps1"
+    ],
+    "richtig": 3,
+    "kategorie": "PowerShell",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Wie kann man eine Umgebungsvariable anzeigen?",
+    "antworten": [
+      "show-env PATH",
+      "env PATH",
+      "get-env PATH",
+      "$env:PATH"
+    ],
+    "richtig": 3,
+    "kategorie": "PowerShell",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Wie kann man den aktuellen Benutzer anzeigen?",
+    "antworten": [
+      "whoami",
+      "$env:USERNAME",
+      "show-user",
+      "get-user"
+    ],
+    "richtig": 1,
+    "kategorie": "PowerShell",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Wie kann man ein Verzeichnis erstellen?",
+    "antworten": [
+      "Make-Directory",
+      "Create-Dir",
+      "New-Item -ItemType Directory",
+      "Add-Folder"
+    ],
+    "richtig": 2,
+    "kategorie": "PowerShell",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Wie kann man eine Datei kopieren?",
+    "antworten": [
+      "Clone-Item",
+      "Duplicate-File",
+      "Copy-Item",
+      "Copy-File"
+    ],
+    "richtig": 2,
+    "kategorie": "PowerShell",
+    "schwierigkeit": "leicht"
+  }
+]

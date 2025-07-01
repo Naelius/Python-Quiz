@@ -1,0 +1,182 @@
+[
+  {
+    "frage": "Wie kann man alle laufenden Prozesse anzeigen?",
+    "antworten": [
+      "Show-Processes",
+      "List-Processes",
+      "ps -ef",
+      "Get-Process"
+    ],
+    "richtig": 3,
+    "kategorie": "PowerShell",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Wie kann man einen Dienst stoppen?",
+    "antworten": [
+      "Remove-Service",
+      "Stop-Service",
+      "Halt-Service",
+      "End-Service"
+    ],
+    "richtig": 1,
+    "kategorie": "PowerShell",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Wie kann man ein Modul importieren?",
+    "antworten": [
+      "Use-Module",
+      "Load-Module",
+      "Add-Module",
+      "Import-Module"
+    ],
+    "richtig": 3,
+    "kategorie": "PowerShell",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Wie kann man eine Schleife von 1 bis 5 schreiben?",
+    "antworten": [
+      "loop 1 to 5 { }",
+      "for ($i=1; $i -le 5; $i++) { }",
+      "while ($i -le 5) { }",
+      "foreach ($i in 1..5) { }"
+    ],
+    "richtig": 1,
+    "kategorie": "PowerShell",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Wie kann man ein Array deklarieren?",
+    "antworten": [
+      "$arr = <1,2,3>",
+      "$arr = [1,2,3]",
+      "$arr = @(1,2,3)",
+      "$arr = {1,2,3}"
+    ],
+    "richtig": 2,
+    "kategorie": "PowerShell",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Wie kann man eine Funktion definieren?",
+    "antworten": [
+      "function Test { }",
+      "func Test() { }",
+      "def Test() { }",
+      "Test() { }"
+    ],
+    "richtig": 0,
+    "kategorie": "PowerShell",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Wie kann man eine Datei verschieben?",
+    "antworten": [
+      "Move-Item",
+      "Transfer-File",
+      "Move-File",
+      "Relocate-Item"
+    ],
+    "richtig": 0,
+    "kategorie": "PowerShell",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Wie kann man den Inhalt eines Arrays ausgeben?",
+    "antworten": [
+      "print($arr)",
+      "show $arr",
+      "echo $arr",
+      "$arr"
+    ],
+    "richtig": 3,
+    "kategorie": "PowerShell",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Wie kann man eine Datei umbenennen?",
+    "antworten": [
+      "Set-Name",
+      "Rename-Item",
+      "Rename-File",
+      "Change-Name"
+    ],
+    "richtig": 1,
+    "kategorie": "PowerShell",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Wie kann man einen Prozess beenden?",
+    "antworten": [
+      "Stop-Process",
+      "End-Process",
+      "Terminate-Process",
+      "Kill-Process"
+    ],
+    "richtig": 0,
+    "kategorie": "PowerShell",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Wie kann man eine Datei anhängen?",
+    "antworten": [
+      "Attach-Content",
+      "Add-File",
+      "Add-Content",
+      "Append-File"
+    ],
+    "richtig": 2,
+    "kategorie": "PowerShell",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Wie kann man ein Skript mit Parametern ausführen?",
+    "antworten": [
+      "./script.ps1 -param Wert",
+      "execute script.ps1 Wert",
+      "script.ps1 --param Wert",
+      "run script.ps1 param Wert"
+    ],
+    "richtig": 0,
+    "kategorie": "PowerShell",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Wie kann man alle Dienste anzeigen, die gestoppt sind?",
+    "antworten": [
+      "Show-Services --stopped",
+      "Get-Service | Where-Object {$_.Status -eq 'Stopped'}",
+      "List-Services -Stopped",
+      "Get-StoppedServices"
+    ],
+    "richtig": 1,
+    "kategorie": "PowerShell",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Wie kann man eine Datei aus dem Internet herunterladen?",
+    "antworten": [
+      "Invoke-WebRequest",
+      "Download-File",
+      "Fetch-Item",
+      "Get-FileFromWeb"
+    ],
+    "richtig": 0,
+    "kategorie": "PowerShell",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Wie kann man ein Objekt in JSON umwandeln?",
+    "antworten": [
+      "To-Json",
+      "Jsonify",
+      "ObjectToJson",
+      "ConvertTo-Json"
+    ],
+    "richtig": 3,
+    "kategorie": "PowerShell",
+    "schwierigkeit": "mittel"
+  }
+]

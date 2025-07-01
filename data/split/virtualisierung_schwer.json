@@ -1,0 +1,182 @@
+[
+  {
+    "frage": "Was ist eine VM-API?",
+    "antworten": [
+      "Lizenzmodell",
+      "Netzwerkfreigabe",
+      "Backup einer VM",
+      "Programmierschnittstelle für VMs"
+    ],
+    "richtig": 3,
+    "kategorie": "Virtualisierung",
+    "schwierigkeit": "schwer"
+  },
+  {
+    "frage": "Was ist eine VM-Containerisierung?",
+    "antworten": [
+      "Backup einer VM",
+      "Netzwerkfreigabe",
+      "Lizenzmodell",
+      "Ausführung von Containern in VMs"
+    ],
+    "richtig": 3,
+    "kategorie": "Virtualisierung",
+    "schwierigkeit": "schwer"
+  },
+  {
+    "frage": "Was ist eine VM-Cloud-Integration?",
+    "antworten": [
+      "Backup einer VM",
+      "Lizenzmodell",
+      "Anbindung von VMs an Cloud-Dienste",
+      "Netzwerkfreigabe"
+    ],
+    "richtig": 2,
+    "kategorie": "Virtualisierung",
+    "schwierigkeit": "schwer"
+  },
+  {
+    "frage": "Was ist eine VM-Backup-Automatisierung?",
+    "antworten": [
+      "Benutzerverwaltung",
+      "Netzwerkoptimierung",
+      "Automatisierte Sicherung von VMs",
+      "Lizenzmodell"
+    ],
+    "richtig": 2,
+    "kategorie": "Virtualisierung",
+    "schwierigkeit": "schwer"
+  },
+  {
+    "frage": "Was ist eine VM-Fehlertoleranz?",
+    "antworten": [
+      "Backup einer VM",
+      "Lizenzmodell",
+      "Netzwerkfreigabe",
+      "Ausfallsicherheit von VMs"
+    ],
+    "richtig": 3,
+    "kategorie": "Virtualisierung",
+    "schwierigkeit": "schwer"
+  },
+  {
+    "frage": "Was ist eine VM-Backup-Verschlüsselung?",
+    "antworten": [
+      "Verschlüsselung von VM-Backups",
+      "Lizenzmodell",
+      "Benutzerverwaltung",
+      "Netzwerkoptimierung"
+    ],
+    "richtig": 0,
+    "kategorie": "Virtualisierung",
+    "schwierigkeit": "schwer"
+  },
+  {
+    "frage": "Was ist eine VM-Backup-Validierung?",
+    "antworten": [
+      "Benutzerverwaltung",
+      "Netzwerkoptimierung",
+      "Überprüfung von VM-Backups",
+      "Lizenzmodell"
+    ],
+    "richtig": 2,
+    "kategorie": "Virtualisierung",
+    "schwierigkeit": "schwer"
+  },
+  {
+    "frage": "Was ist eine VM-Backup-Retention?",
+    "antworten": [
+      "Aufbewahrung von VM-Backups",
+      "Netzwerkoptimierung",
+      "Benutzerverwaltung",
+      "Lizenzmodell"
+    ],
+    "richtig": 0,
+    "kategorie": "Virtualisierung",
+    "schwierigkeit": "schwer"
+  },
+  {
+    "frage": "Was ist eine VM-Backup-Restore?",
+    "antworten": [
+      "Wiederherstellung von VM-Backups",
+      "Benutzerverwaltung",
+      "Lizenzmodell",
+      "Netzwerkoptimierung"
+    ],
+    "richtig": 0,
+    "kategorie": "Virtualisierung",
+    "schwierigkeit": "schwer"
+  },
+  {
+    "frage": "Was ist eine VM-Backup-Planung?",
+    "antworten": [
+      "Lizenzmodell",
+      "Netzwerkoptimierung",
+      "Benutzerverwaltung",
+      "Zeitgesteuerte Sicherung von VMs"
+    ],
+    "richtig": 3,
+    "kategorie": "Virtualisierung",
+    "schwierigkeit": "schwer"
+  },
+  {
+    "frage": "Was ist eine VM-Backup-Überwachung?",
+    "antworten": [
+      "Lizenzmodell",
+      "Monitoring von VM-Backups",
+      "Benutzerverwaltung",
+      "Netzwerkoptimierung"
+    ],
+    "richtig": 1,
+    "kategorie": "Virtualisierung",
+    "schwierigkeit": "schwer"
+  },
+  {
+    "frage": "Was ist eine VM-Backup-Berichtserstellung?",
+    "antworten": [
+      "Lizenzmodell",
+      "Benutzerverwaltung",
+      "Erstellung von Berichten zu VM-Backups",
+      "Netzwerkoptimierung"
+    ],
+    "richtig": 2,
+    "kategorie": "Virtualisierung",
+    "schwierigkeit": "schwer"
+  },
+  {
+    "frage": "Was ist eine VM-Backup-Integration?",
+    "antworten": [
+      "Lizenzmodell",
+      "Benutzerverwaltung",
+      "Anbindung von VM-Backups an andere Systeme",
+      "Netzwerkoptimierung"
+    ],
+    "richtig": 2,
+    "kategorie": "Virtualisierung",
+    "schwierigkeit": "schwer"
+  },
+  {
+    "frage": "Was ist eine VM-Backup-API?",
+    "antworten": [
+      "Lizenzmodell",
+      "Programmierschnittstelle für VM-Backups",
+      "Benutzerverwaltung",
+      "Netzwerkoptimierung"
+    ],
+    "richtig": 1,
+    "kategorie": "Virtualisierung",
+    "schwierigkeit": "schwer"
+  },
+  {
+    "frage": "Was ist eine VM-Backup-Cloud-Integration?",
+    "antworten": [
+      "Benutzerverwaltung",
+      "Netzwerkoptimierung",
+      "Lizenzmodell",
+      "Anbindung von VM-Backups an Cloud-Dienste"
+    ],
+    "richtig": 3,
+    "kategorie": "Virtualisierung",
+    "schwierigkeit": "schwer"
+  }
+]

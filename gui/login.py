@@ -4,6 +4,7 @@ from tkinter import messagebox
 class LoginWindow:
     def __init__(self, master, on_login):
         self.master = master
+        self.master.minsize(200, 150)
         self.on_login = on_login
         self.frame = tk.Frame(master)
         self.frame.pack(padx=20, pady=20)

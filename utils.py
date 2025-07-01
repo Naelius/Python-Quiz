@@ -1,13 +1,27 @@
 import json
 import os
 import random
+import re
 from tkinter import messagebox
 
-def load_questions(filepath):
-    if not os.path.exists(filepath):
-        messagebox.showerror("Error", f"File {filepath} not found.")
+def get_available_pools(split_dir="data/split"):
+    # Liefert eine Liste (Kategorie, Schwierigkeit) aus den Dateinamen
+    pools = []
+    for fname in os.listdir(split_dir):
+        if fname.endswith(".json"):
+            match = re.match(r"(.+)_([a-z]+)\.json", fname)
+            if match:
+                kat, lvl = match.groups()
+                pools.append((kat, lvl))
+    return pools
+
+def load_questions_from_pool(category, difficulty, split_dir="data/split"):
+    fname = f"{category}_{difficulty}.json"
+    path = os.path.join(split_dir, fname)
+    if not os.path.exists(path):
+        messagebox.showerror("Error", f"Fragenpool {path} nicht gefunden.")
         return []
-    with open(filepath, encoding="utf-8") as f:
+    with open(path, encoding="utf-8") as f:
         fragen = json.load(f)
     # Shuffle answers for each question and update the correct index
     for frage in fragen:

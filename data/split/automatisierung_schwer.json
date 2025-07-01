@@ -1,0 +1,182 @@
+[
+  {
+    "frage": "Was ist Infrastructure as Code?",
+    "antworten": [
+      "Netzwerkprotokoll",
+      "Backup-Strategie",
+      "Automatisierte Bereitstellung von IT-Infrastruktur",
+      "Lizenzmodell"
+    ],
+    "richtig": 2,
+    "kategorie": "Automatisierung",
+    "schwierigkeit": "schwer"
+  },
+  {
+    "frage": "Was ist ein CI/CD-Prozess?",
+    "antworten": [
+      "Automatisierte Softwarebereitstellung",
+      "Lizenzmodell",
+      "Backup-Strategie",
+      "Netzwerkprotokoll"
+    ],
+    "richtig": 0,
+    "kategorie": "Automatisierung",
+    "schwierigkeit": "schwer"
+  },
+  {
+    "frage": "Was ist Jenkins?",
+    "antworten": [
+      "Automatisierungsserver",
+      "Netzwerkprotokoll",
+      "Lizenzmodell",
+      "Backup-Programm"
+    ],
+    "richtig": 0,
+    "kategorie": "Automatisierung",
+    "schwierigkeit": "schwer"
+  },
+  {
+    "frage": "Was ist ein Playbook in Ansible?",
+    "antworten": [
+      "Lizenzmodell",
+      "Netzwerkprotokoll",
+      "Sammlung von Automatisierungsaufgaben",
+      "Backup-Strategie"
+    ],
+    "richtig": 2,
+    "kategorie": "Automatisierung",
+    "schwierigkeit": "schwer"
+  },
+  {
+    "frage": "Was ist ein Agent in der Automatisierung?",
+    "antworten": [
+      "Programm zur Ausführung von Aufgaben",
+      "Backup-Programm",
+      "Netzwerkprotokoll",
+      "Lizenzmodell"
+    ],
+    "richtig": 0,
+    "kategorie": "Automatisierung",
+    "schwierigkeit": "schwer"
+  },
+  {
+    "frage": "Was ist ein Orchestrator?",
+    "antworten": [
+      "Koordiniert mehrere Automatisierungsaufgaben",
+      "Backup-Programm",
+      "Netzwerkprotokoll",
+      "Lizenzmodell"
+    ],
+    "richtig": 0,
+    "kategorie": "Automatisierung",
+    "schwierigkeit": "schwer"
+  },
+  {
+    "frage": "Was ist ein Idempotenz-Prinzip in der Automatisierung?",
+    "antworten": [
+      "Netzwerkprotokoll",
+      "Lizenzmodell",
+      "Backup-Strategie",
+      "Wiederholte Ausführung führt zum gleichen Ergebnis"
+    ],
+    "richtig": 3,
+    "kategorie": "Automatisierung",
+    "schwierigkeit": "schwer"
+  },
+  {
+    "frage": "Was ist ein Secret Management Tool?",
+    "antworten": [
+      "Backup-Programm",
+      "Netzwerkprotokoll",
+      "Lizenzmodell",
+      "Verwaltet Zugangsdaten für Automatisierung"
+    ],
+    "richtig": 3,
+    "kategorie": "Automatisierung",
+    "schwierigkeit": "schwer"
+  },
+  {
+    "frage": "Was ist ein Blue-Green-Deployment?",
+    "antworten": [
+      "Deployment-Strategie mit zwei Umgebungen",
+      "Lizenzmodell",
+      "Backup-Strategie",
+      "Netzwerkprotokoll"
+    ],
+    "richtig": 0,
+    "kategorie": "Automatisierung",
+    "schwierigkeit": "schwer"
+  },
+  {
+    "frage": "Was ist ein Canary Release?",
+    "antworten": [
+      "Netzwerkprotokoll",
+      "Lizenzmodell",
+      "Backup-Strategie",
+      "Schrittweise Ausrollung neuer Software"
+    ],
+    "richtig": 3,
+    "kategorie": "Automatisierung",
+    "schwierigkeit": "schwer"
+  },
+  {
+    "frage": "Was ist ein Self-Healing-System?",
+    "antworten": [
+      "Lizenzmodell",
+      "Automatisierte Fehlerbehebung ohne Eingriff",
+      "Backup-Programm",
+      "Netzwerkprotokoll"
+    ],
+    "richtig": 1,
+    "kategorie": "Automatisierung",
+    "schwierigkeit": "schwer"
+  },
+  {
+    "frage": "Was ist ein Immutable Infrastructure Ansatz?",
+    "antworten": [
+      "Lizenzmodell",
+      "Infrastruktur wird nicht verändert, sondern ersetzt",
+      "Backup-Strategie",
+      "Netzwerkprotokoll"
+    ],
+    "richtig": 1,
+    "kategorie": "Automatisierung",
+    "schwierigkeit": "schwer"
+  },
+  {
+    "frage": "Was ist ein Configuration Drift?",
+    "antworten": [
+      "Abweichung von Soll- und Ist-Zustand in Systemen",
+      "Lizenzmodell",
+      "Netzwerkprotokoll",
+      "Backup-Strategie"
+    ],
+    "richtig": 0,
+    "kategorie": "Automatisierung",
+    "schwierigkeit": "schwer"
+  },
+  {
+    "frage": "Was ist ein Runbook?",
+    "antworten": [
+      "Dokumentierte Abfolge von Automatisierungsschritten",
+      "Backup-Strategie",
+      "Netzwerkprotokoll",
+      "Lizenzmodell"
+    ],
+    "richtig": 0,
+    "kategorie": "Automatisierung",
+    "schwierigkeit": "schwer"
+  },
+  {
+    "frage": "Was ist ein Event-Driven Automation?",
+    "antworten": [
+      "Backup-Strategie",
+      "Lizenzmodell",
+      "Netzwerkprotokoll",
+      "Automatisierung, die durch Ereignisse ausgelöst wird"
+    ],
+    "richtig": 3,
+    "kategorie": "Automatisierung",
+    "schwierigkeit": "schwer"
+  }
+]

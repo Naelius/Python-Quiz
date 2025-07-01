@@ -1,0 +1,182 @@
+[
+  {
+    "frage": "Wie kann man ein PowerShell-Modul dauerhaft installieren?",
+    "antworten": [
+      "Setup-Module",
+      "Install-Module",
+      "Import-Module",
+      "Add-Module"
+    ],
+    "richtig": 1,
+    "kategorie": "PowerShell",
+    "schwierigkeit": "schwer"
+  },
+  {
+    "frage": "Wie kann man einen geplanten Task erstellen?",
+    "antworten": [
+      "New-Task",
+      "Add-ScheduledTask",
+      "Create-Task",
+      "Register-ScheduledTask"
+    ],
+    "richtig": 3,
+    "kategorie": "PowerShell",
+    "schwierigkeit": "schwer"
+  },
+  {
+    "frage": "Wie kann man ein Zertifikat anzeigen?",
+    "antworten": [
+      "Get-Cert",
+      "Show-Certificate",
+      "Get-ChildItem Cert:",
+      "Display-Cert"
+    ],
+    "richtig": 2,
+    "kategorie": "PowerShell",
+    "schwierigkeit": "schwer"
+  },
+  {
+    "frage": "Wie kann man ein Event-Log auslesen?",
+    "antworten": [
+      "Get-EventLog",
+      "Show-Event",
+      "Get-Log",
+      "Read-Log"
+    ],
+    "richtig": 0,
+    "kategorie": "PowerShell",
+    "schwierigkeit": "schwer"
+  },
+  {
+    "frage": "Wie kann man einen Registry-Wert setzen?",
+    "antworten": [
+      "Change-Registry",
+      "Set-Registry",
+      "Set-ItemProperty",
+      "Set-ItemReg"
+    ],
+    "richtig": 2,
+    "kategorie": "PowerShell",
+    "schwierigkeit": "schwer"
+  },
+  {
+    "frage": "Wie kann man einen Hashwert berechnen?",
+    "antworten": [
+      "File-Hash",
+      "Hash-File",
+      "Compute-Hash",
+      "Get-FileHash"
+    ],
+    "richtig": 3,
+    "kategorie": "PowerShell",
+    "schwierigkeit": "schwer"
+  },
+  {
+    "frage": "Wie kann man ein Skript signieren?",
+    "antworten": [
+      "Sign-Script",
+      "Add-Signature",
+      "Set-AuthenticodeSignature",
+      "Script-Sign"
+    ],
+    "richtig": 2,
+    "kategorie": "PowerShell",
+    "schwierigkeit": "schwer"
+  },
+  {
+    "frage": "Wie kann man einen Alias erstellen?",
+    "antworten": [
+      "Add-Alias",
+      "New-Alias",
+      "Alias-New",
+      "Create-Alias"
+    ],
+    "richtig": 1,
+    "kategorie": "PowerShell",
+    "schwierigkeit": "schwer"
+  },
+  {
+    "frage": "Wie kann man einen Fehler abfangen?",
+    "antworten": [
+      "on error { }",
+      "if error { }",
+      "try { } catch { }",
+      "catch error { }"
+    ],
+    "richtig": 2,
+    "kategorie": "PowerShell",
+    "schwierigkeit": "schwer"
+  },
+  {
+    "frage": "Wie kann man ein Skript im Hintergrund ausführen?",
+    "antworten": [
+      "Job-Start",
+      "Execute-Async",
+      "Start-Job",
+      "Run-Background"
+    ],
+    "richtig": 2,
+    "kategorie": "PowerShell",
+    "schwierigkeit": "schwer"
+  },
+  {
+    "frage": "Wie kann man einen Prozess nach CPU-Auslastung sortieren?",
+    "antworten": [
+      "Get-Process | Sort-Object CPU -Descending",
+      "Sort-Process CPU",
+      "Order-Process CPU",
+      "Get-Process | OrderBy CPU"
+    ],
+    "richtig": 0,
+    "kategorie": "PowerShell",
+    "schwierigkeit": "schwer"
+  },
+  {
+    "frage": "Wie kann man ein Skript remote ausführen?",
+    "antworten": [
+      "Run-Remote",
+      "Invoke-Command",
+      "Execute-Remote",
+      "Remote-Execute"
+    ],
+    "richtig": 1,
+    "kategorie": "PowerShell",
+    "schwierigkeit": "schwer"
+  },
+  {
+    "frage": "Wie kann man ein Zertifikat importieren?",
+    "antworten": [
+      "Load-Certificate",
+      "Import-Certificate",
+      "Certificate-Import",
+      "Add-Certificate"
+    ],
+    "richtig": 1,
+    "kategorie": "PowerShell",
+    "schwierigkeit": "schwer"
+  },
+  {
+    "frage": "Wie kann man ein Skript debuggen?",
+    "antworten": [
+      "Debug-Script",
+      "Set-PSBreakpoint",
+      "Script-Debug",
+      "Start-Debug"
+    ],
+    "richtig": 1,
+    "kategorie": "PowerShell",
+    "schwierigkeit": "schwer"
+  },
+  {
+    "frage": "Wie kann man ein Objekt in XML umwandeln?",
+    "antworten": [
+      "ConvertTo-Xml",
+      "To-Xml",
+      "ObjectToXml",
+      "Xmlify"
+    ],
+    "richtig": 0,
+    "kategorie": "PowerShell",
+    "schwierigkeit": "schwer"
+  }
+]

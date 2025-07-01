@@ -1,0 +1,182 @@
+[
+  {
+    "frage": "Was ist eine VM-Backup-Strategie?",
+    "antworten": [
+      "Lizenzmodell",
+      "Benutzerverwaltung",
+      "Regelmäßige Sicherung von VMs",
+      "Netzwerkoptimierung"
+    ],
+    "richtig": 2,
+    "kategorie": "VM-Konzepte",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Was ist eine VM-Replication?",
+    "antworten": [
+      "Lizenzmodell",
+      "Kopieren einer VM auf einen anderen Host",
+      "Netzwerkfreigabe",
+      "Backup einer VM"
+    ],
+    "richtig": 1,
+    "kategorie": "VM-Konzepte",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Was ist eine VM-Migration?",
+    "antworten": [
+      "Backup einer VM",
+      "Verschieben einer VM auf einen anderen Host",
+      "Lizenzmodell",
+      "Netzwerkfreigabe"
+    ],
+    "richtig": 1,
+    "kategorie": "VM-Konzepte",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Was ist eine VM-Skalierung?",
+    "antworten": [
+      "Lizenzmodell",
+      "Anpassen der Ressourcen einer VM",
+      "Backup einer VM",
+      "Netzwerkfreigabe"
+    ],
+    "richtig": 1,
+    "kategorie": "VM-Konzepte",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Was ist eine VM-Sicherung?",
+    "antworten": [
+      "Virtuelle Festplatte",
+      "Netzwerkfreigabe",
+      "Lizenzmodell",
+      "Backup einer VM"
+    ],
+    "richtig": 3,
+    "kategorie": "VM-Konzepte",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Was ist eine VM-Wiederherstellung?",
+    "antworten": [
+      "Virtuelle Festplatte",
+      "Rückspielen eines Backups",
+      "Netzwerkfreigabe",
+      "Lizenzmodell"
+    ],
+    "richtig": 1,
+    "kategorie": "VM-Konzepte",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Was ist eine VM-Überwachung?",
+    "antworten": [
+      "Netzwerkfreigabe",
+      "Backup einer VM",
+      "Monitoring von VM-Ressourcen",
+      "Lizenzmodell"
+    ],
+    "richtig": 2,
+    "kategorie": "VM-Konzepte",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Was ist eine VM-Lizenzierung?",
+    "antworten": [
+      "Backup einer VM",
+      "Netzwerkfreigabe",
+      "Zuweisung von Lizenzen an VMs",
+      "Virtuelle Festplatte"
+    ],
+    "richtig": 2,
+    "kategorie": "VM-Konzepte",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Was ist eine VM-Template-Verwaltung?",
+    "antworten": [
+      "Lizenzmodell",
+      "Netzwerkfreigabe",
+      "Organisation von VM-Vorlagen",
+      "Backup einer VM"
+    ],
+    "richtig": 2,
+    "kategorie": "VM-Konzepte",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Was ist eine VM-Backup-Software?",
+    "antworten": [
+      "Netzwerkoptimierung",
+      "Benutzerverwaltung",
+      "Lizenzmodell",
+      "Programm zur Sicherung von VMs"
+    ],
+    "richtig": 3,
+    "kategorie": "VM-Konzepte",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Was ist eine VM-API?",
+    "antworten": [
+      "Programmierschnittstelle für VMs",
+      "Netzwerkfreigabe",
+      "Lizenzmodell",
+      "Backup einer VM"
+    ],
+    "richtig": 0,
+    "kategorie": "VM-Konzepte",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Was ist eine VM-Containerisierung?",
+    "antworten": [
+      "Netzwerkfreigabe",
+      "Lizenzmodell",
+      "Backup einer VM",
+      "Ausführung von Containern in VMs"
+    ],
+    "richtig": 3,
+    "kategorie": "VM-Konzepte",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Was ist eine VM-Cloud-Integration?",
+    "antworten": [
+      "Lizenzmodell",
+      "Backup einer VM",
+      "Anbindung von VMs an Cloud-Dienste",
+      "Netzwerkfreigabe"
+    ],
+    "richtig": 2,
+    "kategorie": "VM-Konzepte",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Was ist eine VM-Backup-Automatisierung?",
+    "antworten": [
+      "Lizenzmodell",
+      "Benutzerverwaltung",
+      "Automatisierte Sicherung von VMs",
+      "Netzwerkoptimierung"
+    ],
+    "richtig": 2,
+    "kategorie": "VM-Konzepte",
+    "schwierigkeit": "mittel"
+  },
+  {
+    "frage": "Was ist eine VM-Fehlertoleranz?",
+    "antworten": [
+      "Netzwerkfreigabe",
+      "Backup einer VM",
+      "Lizenzmodell",
+      "Ausfallsicherheit von VMs"
+    ],
+    "richtig": 3,
+    "kategorie": "VM-Konzepte",
+    "schwierigkeit": "mittel"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "frage": "Was ist eine virtuelle Festplatte?",
+    "antworten": [
+      "Datei, die als Festplatte dient",
+      "Physische Festplatte",
+      "Netzwerklaufwerk",
+      "USB-Stick"
+    ],
+    "richtig": 0,
+    "kategorie": "VM-Konzepte",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Was ist ein ISO-Image?",
+    "antworten": [
+      "Abbild einer CD/DVD",
+      "Lizenzdatei",
+      "Netzwerkprotokoll",
+      "Backup einer VM"
+    ],
+    "richtig": 0,
+    "kategorie": "VM-Konzepte",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Was ist ein vNIC?",
+    "antworten": [
+      "Virtuelles Backup",
+      "Virtuelle Festplatte",
+      "Virtueller Drucker",
+      "Virtuelle Netzwerkkarte"
+    ],
+    "richtig": 3,
+    "kategorie": "VM-Konzepte",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Was ist ein vSwitch?",
+    "antworten": [
+      "Virtueller Drucker",
+      "Virtuelle Festplatte",
+      "Virtuelles Backup",
+      "Virtueller Switch für VMs"
+    ],
+    "richtig": 3,
+    "kategorie": "VM-Konzepte",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Was ist ein vApp?",
+    "antworten": [
+      "Virtuelles Backup",
+      "Virtuelle Anwendung",
+      "Virtueller Drucker",
+      "Virtuelle Festplatte"
+    ],
+    "richtig": 1,
+    "kategorie": "VM-Konzepte",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Was ist ein vmdk-File?",
+    "antworten": [
+      "Virtuelle Festplattendatei",
+      "Netzwerkdatei",
+      "Lizenzdatei",
+      "Backup-Datei"
+    ],
+    "richtig": 0,
+    "kategorie": "VM-Konzepte",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Was ist ein OVF-Template?",
+    "antworten": [
+      "Backup einer VM",
+      "Netzwerkprotokoll",
+      "Lizenzmodell",
+      "Vorlage für VMs"
+    ],
+    "richtig": 3,
+    "kategorie": "VM-Konzepte",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Was ist ein VM-Backup?",
+    "antworten": [
+      "Virtuelle Festplatte",
+      "Netzwerkfreigabe",
+      "Lizenzmodell",
+      "Sicherung einer VM"
+    ],
+    "richtig": 3,
+    "kategorie": "VM-Konzepte",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Was ist ein VM-Snapshot?",
+    "antworten": [
+      "Gespeicherter Zustand einer VM",
+      "Backup einer VM",
+      "Netzwerkfreigabe",
+      "Lizenzmodell"
+    ],
+    "richtig": 0,
+    "kategorie": "VM-Konzepte",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Was ist ein VM-Clone?",
+    "antworten": [
+      "Kopie einer VM",
+      "Netzwerkfreigabe",
+      "Lizenzmodell",
+      "Backup einer VM"
+    ],
+    "richtig": 0,
+    "kategorie": "VM-Konzepte",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Was ist eine vSAN?",
+    "antworten": [
+      "Virtuelle Festplatte",
+      "Virtuelles Backup",
+      "Virtuelles Storage Area Network",
+      "Virtueller Drucker"
+    ],
+    "richtig": 2,
+    "kategorie": "VM-Konzepte",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Was ist eine vGPU?",
+    "antworten": [
+      "Virtueller Drucker",
+      "Virtuelles Backup",
+      "Virtuelle Festplatte",
+      "Virtuelle Grafikkarte"
+    ],
+    "richtig": 3,
+    "kategorie": "VM-Konzepte",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Was ist ein vCenter?",
+    "antworten": [
+      "Virtuelle Festplatte",
+      "Virtueller Drucker",
+      "Virtuelles Backup",
+      "Verwaltungsplattform für VMs"
+    ],
+    "richtig": 3,
+    "kategorie": "VM-Konzepte",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Was ist eine vApp-Template?",
+    "antworten": [
+      "Vorlage für virtuelle Anwendungen",
+      "Virtuelles Backup",
+      "Virtueller Drucker",
+      "Virtuelle Festplatte"
+    ],
+    "richtig": 0,
+    "kategorie": "VM-Konzepte",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Was ist ein vMotion-Event?",
+    "antworten": [
+      "Live-Migration einer VM",
+      "Backup einer VM",
+      "Lizenzmodell",
+      "Netzwerkfreigabe"
+    ],
+    "richtig": 0,
+    "kategorie": "VM-Konzepte",
+    "schwierigkeit": "leicht"
+  }
+]

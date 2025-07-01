@@ -1,0 +1,182 @@
+[
+  {
+    "frage": "Was ist Automatisierung?",
+    "antworten": [
+      "Automatisches Ausführen von Aufgaben",
+      "Netzwerkoptimierung",
+      "Backup von Daten",
+      "Manuelles Arbeiten"
+    ],
+    "richtig": 0,
+    "kategorie": "Automatisierung",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Welches Tool ist für Windows-Automatisierung bekannt?",
+    "antworten": [
+      "Excel",
+      "Word",
+      "Paint",
+      "PowerShell"
+    ],
+    "richtig": 3,
+    "kategorie": "Automatisierung",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Was ist ein Skript?",
+    "antworten": [
+      "Netzwerkprotokoll",
+      "Lizenzmodell",
+      "Backup-Datei",
+      "Automatisierte Befehlsfolge"
+    ],
+    "richtig": 3,
+    "kategorie": "Automatisierung",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Was ist ein Task Scheduler?",
+    "antworten": [
+      "Netzwerkprotokoll",
+      "Lizenzmodell",
+      "Backup-Programm",
+      "Zeitgesteuerte Aufgabenplanung"
+    ],
+    "richtig": 3,
+    "kategorie": "Automatisierung",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Was ist ein Batch-File?",
+    "antworten": [
+      "Backup-Datei",
+      "Netzwerkprotokoll",
+      "Lizenzmodell",
+      "Skriptdatei für Windows"
+    ],
+    "richtig": 3,
+    "kategorie": "Automatisierung",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Was ist eine Pipeline in PowerShell?",
+    "antworten": [
+      "Backup-Strategie",
+      "Lizenzmodell",
+      "Verkettung von Befehlen",
+      "Netzwerkprotokoll"
+    ],
+    "richtig": 2,
+    "kategorie": "Automatisierung",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Was ist ein Cronjob?",
+    "antworten": [
+      "Geplante Aufgabe unter Linux",
+      "Backup-Programm",
+      "Lizenzmodell",
+      "Netzwerkprotokoll"
+    ],
+    "richtig": 0,
+    "kategorie": "Automatisierung",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Was ist Ansible?",
+    "antworten": [
+      "Automatisierungs-Tool",
+      "Lizenzmodell",
+      "Backup-Programm",
+      "Netzwerkprotokoll"
+    ],
+    "richtig": 0,
+    "kategorie": "Automatisierung",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Was ist ein Webhook?",
+    "antworten": [
+      "Automatisierte Benachrichtigung",
+      "Netzwerkprotokoll",
+      "Backup-Programm",
+      "Lizenzmodell"
+    ],
+    "richtig": 0,
+    "kategorie": "Automatisierung",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Was ist ein Makro?",
+    "antworten": [
+      "Lizenzmodell",
+      "Netzwerkprotokoll",
+      "Backup-Programm",
+      "Automatisierte Aktion in Programmen"
+    ],
+    "richtig": 3,
+    "kategorie": "Automatisierung",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Was ist Infrastructure as Code?",
+    "antworten": [
+      "Netzwerkprotokoll",
+      "Backup-Strategie",
+      "Automatisierte Bereitstellung von IT-Infrastruktur",
+      "Lizenzmodell"
+    ],
+    "richtig": 2,
+    "kategorie": "Automatisierung",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Was ist ein CI/CD-Prozess?",
+    "antworten": [
+      "Backup-Strategie",
+      "Lizenzmodell",
+      "Automatisierte Softwarebereitstellung",
+      "Netzwerkprotokoll"
+    ],
+    "richtig": 2,
+    "kategorie": "Automatisierung",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Was ist Jenkins?",
+    "antworten": [
+      "Netzwerkprotokoll",
+      "Lizenzmodell",
+      "Automatisierungsserver",
+      "Backup-Programm"
+    ],
+    "richtig": 2,
+    "kategorie": "Automatisierung",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Was ist ein Playbook in Ansible?",
+    "antworten": [
+      "Netzwerkprotokoll",
+      "Lizenzmodell",
+      "Backup-Strategie",
+      "Sammlung von Automatisierungsaufgaben"
+    ],
+    "richtig": 3,
+    "kategorie": "Automatisierung",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Was ist ein Agent in der Automatisierung?",
+    "antworten": [
+      "Programm zur Ausführung von Aufgaben",
+      "Backup-Programm",
+      "Lizenzmodell",
+      "Netzwerkprotokoll"
+    ],
+    "richtig": 0,
+    "kategorie": "Automatisierung",
+    "schwierigkeit": "leicht"
+  }
+]

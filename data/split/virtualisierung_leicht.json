@@ -1,0 +1,182 @@
+[
+  {
+    "frage": "Was ist Virtualisierung?",
+    "antworten": [
+      "Mehr Speicherplatz",
+      "Automatische Updates",
+      "Schnelleres Internet",
+      "Betrieb mehrerer Systeme auf einer Hardware"
+    ],
+    "richtig": 3,
+    "kategorie": "Virtualisierung",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Was ist eine VM?",
+    "antworten": [
+      "Virtuelle Mappe",
+      "Virtuelles Modem",
+      "Virtuelle Maschine",
+      "Verwaltete Mail"
+    ],
+    "richtig": 2,
+    "kategorie": "Virtualisierung",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Welches ist ein Virtualisierungsprodukt?",
+    "antworten": [
+      "Photoshop",
+      "Word",
+      "VMware",
+      "Excel"
+    ],
+    "richtig": 2,
+    "kategorie": "Virtualisierung",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Was ist ein Hypervisor?",
+    "antworten": [
+      "Ein Virenscanner",
+      "Ein Browser",
+      "Software zur Verwaltung von VMs",
+      "Ein Backup-Programm"
+    ],
+    "richtig": 2,
+    "kategorie": "Virtualisierung",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Was ist ein Snapshot?",
+    "antworten": [
+      "Ein Update",
+      "Gespeicherter Zustand einer VM",
+      "Ein Screenshot",
+      "Ein Netzwerkgerät"
+    ],
+    "richtig": 1,
+    "kategorie": "Virtualisierung",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Was ist eine Host-Maschine?",
+    "antworten": [
+      "Netzwerkgerät",
+      "Virtuelle Maschine",
+      "Backup-Server",
+      "Physischer Rechner für VMs"
+    ],
+    "richtig": 3,
+    "kategorie": "Virtualisierung",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Was ist eine Gast-Maschine?",
+    "antworten": [
+      "Virtuelle Maschine auf dem Host",
+      "Physischer Server",
+      "Firewall",
+      "Netzwerkdrucker"
+    ],
+    "richtig": 0,
+    "kategorie": "Virtualisierung",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Was ist vMotion?",
+    "antworten": [
+      "Backup-Software",
+      "Antivirenprogramm",
+      "Live-Migration von VMs",
+      "Netzwerkprotokoll"
+    ],
+    "richtig": 2,
+    "kategorie": "Virtualisierung",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Was ist eine Ressourcenzuteilung?",
+    "antworten": [
+      "Lizenzierung",
+      "Benutzerverwaltung",
+      "Netzwerkfreigabe",
+      "Zuweisung von CPU/RAM an VMs"
+    ],
+    "richtig": 3,
+    "kategorie": "Virtualisierung",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Was ist Thin Provisioning?",
+    "antworten": [
+      "Backup-Strategie",
+      "Lizenzmodell",
+      "Netzwerkoptimierung",
+      "Dynamische Speicherzuweisung"
+    ],
+    "richtig": 3,
+    "kategorie": "Virtualisierung",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Was ist eine VM-Template?",
+    "antworten": [
+      "Lizenzmodell",
+      "Vorlage für neue VMs",
+      "Netzwerkfreigabe",
+      "Backup einer VM"
+    ],
+    "richtig": 1,
+    "kategorie": "Virtualisierung",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Was ist eine vCPU?",
+    "antworten": [
+      "Virtuelles Netzwerk",
+      "Virtuelle Festplatte",
+      "Virtueller Drucker",
+      "Virtuelle CPU einer VM"
+    ],
+    "richtig": 3,
+    "kategorie": "Virtualisierung",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Was ist eine VM-Clusterlösung?",
+    "antworten": [
+      "Lizenzmodell",
+      "Backup-Strategie",
+      "Netzwerkprotokoll",
+      "Zusammenschluss mehrerer Hosts für VMs"
+    ],
+    "richtig": 3,
+    "kategorie": "Virtualisierung",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Was ist eine Paravirtualisierung?",
+    "antworten": [
+      "Vollständige Virtualisierung",
+      "Netzwerkvirtualisierung",
+      "Lizenzierung",
+      "Teilweise Virtualisierung mit angepasstem OS"
+    ],
+    "richtig": 3,
+    "kategorie": "Virtualisierung",
+    "schwierigkeit": "leicht"
+  },
+  {
+    "frage": "Was ist Nested Virtualization?",
+    "antworten": [
+      "Lizenzierung von VMs",
+      "Virtualisierung innerhalb einer VM",
+      "Backup einer VM",
+      "Netzwerkvirtualisierung"
+    ],
+    "richtig": 1,
+    "kategorie": "Virtualisierung",
+    "schwierigkeit": "leicht"
+  }
+]
